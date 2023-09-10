@@ -1,0 +1,14 @@
+{
+  "name": "cloud-en-software-architectuur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.0.4"
+  }
+}
